@@ -24,7 +24,6 @@ This work was completed as part of my **B.Tech AI & DS Capstone Project** at **I
   - **Min–Max resource fairness**
 - Comparison with **Envelope Q-Learning** (baseline)
 - Logging and saving of Q-networks, returns, and learned policies
-- Reproducible experiments with **5 random seeds**
 
 ---
 
